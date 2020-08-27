@@ -4,7 +4,7 @@
 
 ## Website
 
-[https://eventpro-b0d9e.firebaseapp.com/loginform.html](https://eventpro-b0d9e.firebaseapp.com/loginform.html)
+[Live Demo](https://eventpro-b0d9e.firebaseapp.com/loginform.html)
 
 ## Promo
 
